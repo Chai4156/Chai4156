@@ -1,5 +1,5 @@
 <h1 align="center">Hey, I'm Chai 👋</h1>
-<h3 align="center">CS Undergrad · ML Engineer · Builder</h3>
+<h3 align="center">CS Undergrad · ML Engineer ·</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/chaitanya-krishna-gutti">LinkedIn</a> ·
