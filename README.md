@@ -3,7 +3,6 @@
 
 <p align="center">
   <a href="https://linkedin.com/in/chaitanya-krishna-gutti">LinkedIn</a> ·
-  <a href="https://github.com/Chai4156">GitHub</a> ·
   <a href="mailto:guttichaitanya2005@gmail.com">Email</a>
 </p>
 
