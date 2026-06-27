@@ -14,7 +14,7 @@ Final-year Computer Science student at **Matrusri Engineering College, Hyderabad
 
 I build end-to-end ML pipelines — from raw data and model training to REST API deployment and frontend integration. My work spans NLP, computer vision, and recommendation systems. I care about understanding *why* a model works, not just that it does.
 
-> *"RoBERTa scored 99.9% — and that's exactly why I didn't trust it."*
+> *"RoBERTa scored 99.9% — and that's exactly why I didn't trust it. Because there is a tendency for models to overfit with current data."*
 
 ---
 
