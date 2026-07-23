@@ -35,9 +35,8 @@ Fresher with experience in ML,data analytics and vibe coding with strong fundame
 </p>
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/38ScaMJrvq?theme=dark&border=0&radius=20" />
+  <img src="https://leetcard.jacoblin.cool/38ScaMJrvq?theme=chartreuse&font=Black%20Ops%20One&ext=heatmap" />
 </p>
-
 ---
 
 <p align="center">
